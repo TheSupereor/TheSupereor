@@ -7,7 +7,7 @@
 - 👀 Interested in design and front-end programming!
 - 🌱 Currently learning React!
 - 💞️ Looking to collaborate on projects to grow in knowledge!
-- 📫 You can reach me by my email: supereor@gmail.com and on my instagram https://www.instagram.com/sups_designer/
+- 📫 You can reach me by my email: supereor@gmail.com and on my twitter https://twitter.com/TheSupereor
 
 <!---
 TheSupereor/TheSupereor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
