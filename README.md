@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Sups
 - 👀 Interested in design and programming!
-- 🌱 Currently learning React!
+- 🌱 Currently learning Node + React!
 - 💞️ Looking to collaborate on projects to grow in knowledge!
 - 📫 You can reach me by my email: supereor@gmail.com and on my twitter https://twitter.com/TheSupereor
 
