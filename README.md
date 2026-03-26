@@ -7,7 +7,6 @@
 - 👀 Interested in design and programming!
 - 🌱 Currently learning Node + React!
 - 💞️ Looking to collaborate on projects to grow in knowledge!
-- 📫 You can reach me by my email: supereor@gmail.com and on my twitter https://twitter.com/TheSupereor
 
 <!---
 TheSupereor/TheSupereor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
