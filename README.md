@@ -1,9 +1,9 @@
 <h1 align="center">
-    <p>♠ Narciso Ferreira | Sups<p/>
+    <p>♠ Narciso Ferreira<p/>
 </h1>
 <p align="center">And thats me!</p>
 
-- 👋 Hi, I’m @Sups
+- 👋 Hi, I’m Narciso
 - 👀 Interested in design and programming!
 - 🌱 Currently learning Node + React!
 - 💞️ Looking to collaborate on projects to grow in knowledge!
